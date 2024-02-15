@@ -58,7 +58,7 @@ footer{
  Margin: 0 0 30px 0;
  Padding: 35px 0 35px 65px;
  Font-size: 156.25%;
- background-image: url(../images/bg_h1_head.png), url(../images/bg_h1_bottom.png);
+ background-image: url(https://github.com/anuehjisjgaowejo/sample/blob/main/bg_h1_head.png?raw=true), url(../images/bg_h1_bottom.png);
  background-repeat: no-repeat, no-repeat;
  Background-position: left top, left bottom;
 }
