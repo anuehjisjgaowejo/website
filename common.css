@@ -86,7 +86,7 @@ address {
 #main h2 {
 	margin-top: 0;
 	padding: 13px 0 13px 24px;
-	background-image: url(https://github.com/anuehjisjgaowejo/sample/blob/main/bg_h2_head.png?raw=true), url(../images/bg_h2_bottom.png);
+	background-image: url(https://github.com/anuehjisjgaowejo/sample/blob/main/bg_h2_head.png?raw=true), url(https://github.com/anuehjisjgaowejo/sample/blob/main/bg_h2_bottom.png?raw=true);
 	background-repeat: no-repeat, no-repeat;
 	background-position: left top, left bottom;
 	font-size: 112.5%;
